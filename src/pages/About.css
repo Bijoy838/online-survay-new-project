@@ -1,0 +1,51 @@
+.about-hero {
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('images/survey-hero.jpg') center/cover no-repeat;
+    padding: 100px 0;
+  }
+  
+  .info-box {
+    min-height: 250px;
+  }
+  
+  .step-box {
+    background: #f8f9fa;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: transform 0.3s;
+  }
+  .step-box:hover {
+    transform: translateY(-5px);
+  }
+  
+  .cta-section {
+    background: linear-gradient(135deg, #007bff, #6610f2);
+  }
+  .hero-about {
+    background-color:#7cc0d8;
+    height: 50vh;
+    margin-top: -16px;
+  }
+  .hero-about h1{
+    color: white;
+    
+  }
+  .hero-about p{
+    color: white;
+    
+  }
+  
+  .cta-about {
+    background: linear-gradient(135deg, #7cc0d8);
+    margin-bottom: -48px;
+  }
+  
+  .step-box {
+    background-color: white;
+  }
+  .who-we-are h2{
+    color:  #004085;
+  }
+  .why-platform h2{
+    color:#004085 ;
+  }
